@@ -18,5 +18,5 @@ while mid <= right:
         right-=1
     else:
         mid +=1
-        
+
 print(li)
