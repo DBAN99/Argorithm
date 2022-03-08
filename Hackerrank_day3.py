@@ -13,7 +13,5 @@ def gradingStudents(grades):
             round_num = 5 - mod_num
 
             score = i + round_num
-
         answer.append(score)
-
     return answer
